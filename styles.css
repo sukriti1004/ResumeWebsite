@@ -240,15 +240,7 @@ li.js:after{
   }
 
 }
-li.react:after{
-  animation-name: react;
-  }
-@keyframes react {
-  to{
-    width: 50%;
-  }
 
-}
 li.cpp:after{
   animation-name: cpp;
   }
@@ -267,15 +259,7 @@ li.ui:after{
   }
 
 }
-li.sql:after{
-  animation-name: sql;
-  }
-@keyframes sql {
-  to{
-    width: 50%;
-  }
 
-}
 
 .container3{
   margin: 20px;
